@@ -95,7 +95,7 @@ const Register = () => {
                         </div>
                     </div>
                     {
-                        registerError && <><p className="text-red-600 font-bold">{registerError}</p> <Toaster /></>
+                        registerError && <><p className="text-red-600 font-bold">{registerError}</p> </>
                     }
                     <div className="form-control mt-6">
                         <button className="btn btn-primary text-xl">Register</button>
