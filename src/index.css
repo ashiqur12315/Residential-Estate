@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.leaflet-container{
+    height: 600px;
+    width: 100%;
+}
+.font-mop{
+    font-family: "Montserrat", sans-serif;
+    }
+.font-pop{
+        font-family: "Poppins", sans-serif;
+        }

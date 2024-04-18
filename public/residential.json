@@ -1,0 +1,110 @@
+[
+    {
+      "image": "https://i.ibb.co/rHQ9d7f/new-1572747-1920.jpg",
+      "estate_title": "Cozy Single-Family Home",
+      "id": "RES-001",
+      "segment_name": "Residential",
+      "description": "A charming single-family home perfect for small families. Features include three bedrooms, a spacious backyard, and a modern kitchen.",
+      "price": "$300,000",
+      "status": "Rent",
+      "area": "1800 sqft",
+      "location": "Suburban neighborhood, Springfield",
+      "facilities": ["3 Bedrooms", "2 Bathrooms", "Modern Kitchen", "Backyard"]
+    },
+    {
+      "image": "https://i.ibb.co/cX78FfZ/townhouse.jpg",
+      "estate_title": "Luxurious Townhouse",
+      "id": "RES-002",
+      "segment_name": "Residential",
+      "description": "A luxurious townhouse with contemporary design and high-end finishes. Enjoy spacious living areas, a rooftop terrace, and premium amenities.",
+      "price": "$600,000",
+      "status": "Sale",
+      "area": "2500 sqft",
+      "location": "Downtown, Metro City",
+      "facilities": ["4 Bedrooms", "3 Bathrooms", "Rooftop Terrace", "Fitness Center"]
+    },
+    {
+      "image": "https://i.ibb.co/fY10TxN/istockphoto-1159873271-1024x1024.jpg",
+      "estate_title": "Modern City Apartment",
+      "id": "RES-003",
+      "segment_name": "Residential",
+      "description": "A sleek and modern apartment in the heart of the city. Features include floor-to-ceiling windows, city views, and access to amenities such as a pool and gym.",
+      "price": "$2,500/month",
+      "status": "Rent",
+      "area": "1200 sqft",
+      "location": "Downtown, Urban Heights",
+      "facilities": ["1 Bedroom", "1 Bathroom", "City Views", "Pool", "Gym"]
+    },
+    {
+      "image": "https://i.ibb.co/x3NcxTx/istockphoto-1165384568-1024x1024.jpg",
+      "estate_title": "Student Housing Complex",
+      "id": "RES-004",
+      "segment_name": "Residential",
+      "description": "A purpose-built student housing complex offering modern amenities and convenient access to campus. Perfect for student living.",
+      "price": "$800/month per room",
+      "status": "Rent",
+      "area": "Varies by unit",
+      "location": "University District, College Town",
+      "facilities": ["Furnished Units", "Study Lounges", "Fitness Center", "Game Room"]
+    },
+    {
+      "image": "https://i.ibb.co/xqV7KRY/istockphoto-845622734-1024x1024.jpg",
+      "estate_title": "Senior Living Community",
+      "id": "RES-005",
+      "segment_name": "Residential",
+      "description": "A vibrant senior living community offering independent and assisted living options. Enjoy social activities, dining, and wellness programs.",
+      "price": "Starting at $3,000/month",
+      "status": "Rent",
+      "area": "Varies by unit",
+      "location": "Senior-friendly neighborhood, Serenity Hills",
+      "facilities": ["Independent Living", "Assisted Living", "Social Activities", "Dining Options"]
+    },
+    {
+      "image": "https://i.ibb.co/rpZQqMV/istockphoto-139944265-1024x1024.jpg",
+      "estate_title": "Vacation Rental Villa",
+      "id": "RES-006",
+      "segment_name": "Residential",
+      "description": "A luxurious vacation Rental villa with stunning ocean views and private pool. Ideal for family getaways or group retreats.",
+      "price": "$500/night",
+      "status": "Rent",
+      "area": "3000 sqft",
+      "location": "Coastal Paradise, Tranquil Bay",
+      "facilities": ["5 Bedrooms", "5 Bathrooms", "Private Pool", "Ocean Views", "BBQ Area"]
+    },
+    {
+      "image": "https://i.ibb.co/kS1WK2W/istockphoto-1164467533-1024x1024.jpg",
+      "estate_title": "Lakefront Retreat",
+      "id": "RES-007",
+      "segment_name": "Residential",
+      "description": "A serene lakefront retreat offering privacy and tranquility. Enjoy fishing, boating, and beautiful sunsets from your own dock.",
+      "price": "$700,000",
+      "status": "Sale",
+      "area": "2200 sqft",
+      "location": "Lakefront, Peaceful Valley",
+      "facilities": ["3 Bedrooms", "2.5 Bathrooms", "Private Dock", "Lake Access"]
+    },
+    {
+      "image": "https://i.ibb.co/WkvZXWs/istockphoto-957895328-1024x1024.jpg",
+      "estate_title": "Family-Friendly Suburban Home",
+      "id": "RES-008",
+      "segment_name": "Residential",
+      "description": "A spacious family-friendly home located in a safe and welcoming suburban neighborhood. Perfect for raising children and entertaining guests.",
+      "price": "$400,000",
+      "status": "Sale",
+      "area": "2800 sqft",
+      "location": "Suburban Community, Maple Grove",
+      "facilities": ["4 Bedrooms", "3 Bathrooms", "Large Yard", "Family Room"]
+    },
+    {
+      "image": "https://i.ibb.co/DwjNW46/istockphoto-1465744299-1024x1024.jpg",
+      "estate_title": "Mountain View Cabin",
+      "id": "RES-009",
+      "segment_name": "Residential",
+      "description": "A cozy cabin nestled in the mountains with breathtaking views and access to hiking trails. Escape the hustle and bustle of city life.",
+      "price": "$250,000",
+      "status": "Sale",
+      "area": "1500 sqft",
+      "location": "Mountain Range, Alpine Retreat",
+      "facilities": ["2 Bedrooms", "1 Bathroom", "Deck", "Mountain Views"]
+    }
+  ]
