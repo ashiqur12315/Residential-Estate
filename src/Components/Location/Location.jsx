@@ -15,7 +15,7 @@ const Location = () => {
         data-aos-easing="ease-out-cubic"
         data-aos-duration="2000">
             <Helmet><title>Our Location</title></Helmet>
-            <h2 className="text-center text-4xl font-bold">My Purchased Property Location</h2>
+            <h2 className="text-center text-4xl font-bold font-pop mb-3">My Purchased Property Location</h2>
             <div>
                 <MapContainer center={center}
                      zoom={ZOOM_LEVEL}
