@@ -30,10 +30,10 @@ const Properties = () => {
                         <p data-aos="fade-right" data-aos-duration="3000" className="m-3 pl-5">Type: {segment_name}</p>
                         <p data-aos="fade-left" data-aos-duration="3000" className="m-3 pl-5 flex items-center gap-2"><GiIsland />Area: {area}</p>
                         <p data-aos="fade-right" data-aos-duration="3000" className="m-3 pl-5 flex items-center gap-2"><RiPriceTagFill />Status: {status}</p>
-                        <p data-aos="fade-left" data-aos-duration="3000" className="m-3 pl-5 flex items-center gap-2">< IoPricetagsOutline />Price: {price}</p>
+                        <p data-aos="fade-left" data-aos-duration="3000" className="m-3 pl-5 flex items-center gap-2 italic">< IoPricetagsOutline /><span className='bg-orange-400 font-bold text-3xl p-2 rounded-md'>Price: {price}</span></p>
                         <p data-aos="fade-right" data-aos-duration="3000" className="m-3 pl-5 flex items-center gap-2"><FaLocationDot />Location: {location}</p>
-                        <p data-aos="fade-up-right" data-aos-duration="3000" className="m-3 pl-5 flex items-center gap-2"><GrStatusGood />Facilities: {
-                            facilities.map(f => <li>{f}</li>)
+                        <p data-aos="fade-up-right" data-aos-duration="3000" className="m-3 pl-5  text-green-500"><GrStatusGood />Facilities: {
+                            facilities.map((f,index) => <p key={index} className='bg-gradient-to-r from-white to-transparent pl-2 rounded-sm'>{index+1}.{f}</p>)
                             }</p>
                         
                     </div>
