@@ -1,8 +1,10 @@
+import { Helmet } from "react-helmet-async";
 
 
 const Reviews = () => {
     return (
         <div>
+            <Helmet><title>Reviews</title></Helmet>
             <div className="grid md:grid-cols-3 lg:grid-cols-3">
                 <div data-aos="fade-right" data-aos-duration="2000" className="container flex flex-col w-full max-w-lg p-6 mx-auto divide-y rounded-md dark:divide-gray-300 dark:bg-gray-50 dark:text-gray-800">
                     <div className="flex justify-between p-4">
