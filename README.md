@@ -1,5 +1,4 @@
 My website Name is Residential-Estate.
-#Residential-Estate : Residential Estate Website: Modern, Secure, and Feature-Rich.
 Live site: https://residential-era.web.app
 
 Features of my website:
