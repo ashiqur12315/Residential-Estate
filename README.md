@@ -11,3 +11,10 @@ Features of my website:
 - Logged-in users have access to a protected route where they can update their username and photo URL. This feature enhances user engagement by allowing them to personalize their profile information.
 
 - The website integrates 3 npm packages (AOSPackage, React-leaflet, Swiper slider ) to enhance user experience. These include AOSPackage for smooth animations, React-leaflet for interactive maps, and Swiper slider for dynamic image carousels. These features contribute to the website's modern and engaging design.
+
+
+# npm package name which i have used for the  challenges task
+ a. AOSPackage
+ b. React-leaflet
+ c. Swiper slider
+ 
