@@ -21,7 +21,7 @@ const Properties = () => {
     console.log(property);
     return (
         <div>
-            <Helmet><title>Property Details</title></Helmet>
+            <Helmet><title>Property Details.</title></Helmet>
             <div data-aos="zoom-in-up" data-aos-duration="1000" className="hero min-h-screen text-2xl rounded-3xl" style={{ backgroundImage: `url(${image})` }}>
                 
                 <div className=" rounded-3xl bg-gradient-to-r from-black to-transparent opacity-80 min-h-screen lg:pt-5 md:pt-3 sm:pt-3 text-neutral-content">
